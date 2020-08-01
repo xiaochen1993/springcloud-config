@@ -21,7 +21,6 @@ management:
         include: hystrix.stream
         
 spring:
-  ......
   cloud:
     config:
       override-none: true
